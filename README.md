@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/Yourrrrlove/Yourrrrlove/main/assets/github-contribution-grid-snake.svg)
+![](https://usercontent.githubfast.com/raw/Yourrrrlove/Yourrrrlove/main/assets/github-contribution-grid-snake.svg)
 
+### My GitHub Stats
+
+![Yourrrrlove的 GitHub stats](https://github-readme-stats.vercel.app/api?username=Yourrrrlove&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yourrrrlove&layout=compact)
