@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My GitHub Contributions
-
-![](https://usercontent.githubfast.com/raw/Yourrrrlove/Yourrrrlove/main/assets/github-contribution-grid-snake.svg)
 
 ### My GitHub Stats
 
